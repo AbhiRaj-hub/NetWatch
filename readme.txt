@@ -23,7 +23,7 @@ Python 3.x
 Nmap (System installation required)
 Python Libraries:
           ->python-nmap
- 	  ->requests
+ 	        ->requests
 
 Permissions:
 For advanced scans(TCP, UDP, Intense):
